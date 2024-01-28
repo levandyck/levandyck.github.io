@@ -188,23 +188,13 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - docker-compose.yml
-  - Dockerfile
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - package.json
-  - package-lock.json
-  - purgecss.config.js
-  - README.md
   - vendor
 keep_files:
   - CNAME
   - .nojekyll
+  - .git
 
 # Plug-ins
 plugins:
@@ -226,12 +216,9 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets"
+      path: "assets/**/*.*"
     values:
       sitemap: false
-
-sass:
-  style: compressed
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -286,8 +273,6 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: year
-  # group_order: descending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
@@ -351,7 +336,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: true # enables displaying social links in the navbar on the about page
+enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
