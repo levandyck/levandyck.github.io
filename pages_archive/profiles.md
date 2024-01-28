@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: People
@@ -19,4 +19,4 @@ profiles:
     content:
     image_circular: true # crops the image to make it circular
     more_info:
----
+--- -->
