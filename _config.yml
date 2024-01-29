@@ -147,7 +147,7 @@ disqus_shortname: # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
-Collections:
+collections:
   news:
     defaults:
       layout: post
