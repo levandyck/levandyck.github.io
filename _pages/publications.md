@@ -5,7 +5,7 @@ title: Contributions
 description:
 sections:
   - bibquery: "@article"
-    text: "Peer-reviewed publications"
+    text: "Peer-reviewed articles"
   - bibquery: "@inproceedings"
     text: "Conference posters"
   - bibquery: "@thesis"
@@ -23,7 +23,7 @@ nav_order: 4
 
 {%- for section in page.sections %}
   <a id="{{section.text}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
+  <p class="bibtitle" style="font-size: 1.5em;">{{section.text}}</p>
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
