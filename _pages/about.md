@@ -20,4 +20,4 @@ Hi and welcome to my website!
 
 My name is Lenny and I'm a first-year PhD candidate in Computational Cognitive Neuroscience at the [Department of Psychology at Justus Liebig University Giessen](https://www.uni-giessen.de/en/faculties/f06/psy/welcome-to-the-department-of-psychology?set_language=en/).
 
-I study how the brain turns what we see into what we understand. Specifically, I'm curious about how the visual cortex processes, organizes, and makes sense of information it gets from the eyes. To do this, I use neuroimaging techniques and deep learning models to explore how different parts of the brain work together.
+I'm fascinated by how our brains make sense of the world around us. Therefore, I investigate how the visual cortex processes, organizes and interprets the information it receives from the eyes. Using neuroimaging techniques and deep learning models, I explore the role of functionally specialized brain areas.
