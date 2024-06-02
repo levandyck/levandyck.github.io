@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm super happy to have been awarded a doctoral scholarship from the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/)!
+Thrilled to announce that I have been awarded a doctoral scholarship from the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/)!

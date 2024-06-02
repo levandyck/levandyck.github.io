@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a poster on “Core neural dimensions of functionally selective areas in the human visual cortex” at the [CAOs workshop](https://event.unitn.it/cimec-caos/) in Rovereto.
+Presented a poster on “Core neural dimensions of functionally selective areas in the human visual cortex” at the [CAOs workshop](https://event.unitn.it/cimec-caos/) in beautiful Rovereto.

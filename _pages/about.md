@@ -18,6 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi and welcome to my website!
 
-My name is Lenny and I'm a first-year PhD candidate in Computational Cognitive Neuroscience at the [Department of Psychology at Justus Liebig University Giessen](https://www.uni-giessen.de/en/faculties/f06/psy/welcome-to-the-department-of-psychology?set_language=en/).
+My name is Lenny and I'm a first-year PhD candidate in Computational Cognitive Neuroscience at the Department of Psychology at Justus Liebig University Giessen.
 
-I'm fascinated by how our brain makes sense of the world around us. I study how the visual cortex represents and processes the information it receives from the eyes. Using neuroimaging and computational modeling, I explore the role of functionally selective brain areas.
+I'm fascinated by how our brain makes sense of the world around us. My research focuses on how the visual cortex transforms sensory input into cognitive representations. Using neuroimaging and computational modeling, I investigate the role of functionally selective brain areas.
+
+When not doing science, I like to explore the planet in a campervan.
