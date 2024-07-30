@@ -1,4 +1,4 @@
-# Customize
+<!-- # Customize
 
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
@@ -164,5 +164,5 @@ Also In case you face the error: "Input required and not supplied: token" in the
 - **contents**: access: read and write
 - **metadata**: access: read-only
 
-Due to the necessary permissions (PAT and others mentioned above), it is recommended to use it as a secret rather than an environment variable.
+Due to the necessary permissions (PAT and others mentioned above), it is recommended to use it as a secret rather than an environment variable. -->
 
