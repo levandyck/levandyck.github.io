@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi and welcome to my website!
+Hi, and welcome to my website!
 
-My name is Lenny and I'm a first-year PhD candidate in Computational Cognitive Neuroscience at the Department of Psychology at Justus Liebig University Giessen.
+I'm Lenny, a second-year PhD candidate in Cognitive Computational Neuroscience at JLU Giessen, working with [Katharina Dobs](https://www.katharinadobs.com/) and [Martin Hebart](https://hebartlab.com/).
 
-I'm fascinated by how our brain makes sense of the world around us. My research focuses on how the visual cortex transforms sensory input into cognitive representations. Using neuroimaging and computational modeling, I investigate the role of functionally selective brain areas.
+In my research, I investigate how the brain transforms sensory input into meaningful representations. I'm particularly fascinated by functionally selective areas that perform specialized computations to solve this complex task. With a foundation in cognitive neuroscience and a growing passion for machine learning, I combine neuroimaging and computational modeling to uncover how the brain makes sense of the world around us.
 
-When not doing science, I like to explore the planet in a campervan.
+When not doing science, I like to travel the planet in a campervan.

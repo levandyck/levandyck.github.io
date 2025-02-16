@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I had a lot of fun at another lively NEAT Workshop in Osnabrück :smile:
+I had a lot of fun at another lively NEAT Workshop in Osnabrück
