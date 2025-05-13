@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD with [Katharina Dobs](https://www.katharinadobs.com) and [Martin Hebart](http://martin-hebart.de) at JLU Giessen
+And so the journey begins: I started my PhD with [Katharina Dobs](https://www.katharinadobs.com) and [Martin Hebart](http://martin-hebart.de) at JLU Giessen! :sailboat:

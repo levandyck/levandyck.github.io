@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a poster at ECVP in Aberdeen :uk:
+The conference season ends with a poster and a pint at ECVP in Aberdeen :uk:

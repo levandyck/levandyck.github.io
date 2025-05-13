@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a poster at the CAOs workshop in beautiful Rovereto :it:
+At the CAOs workshop in Rovereto, I presented initial results of my first PhD project on multidimensional representations within category-selective visual areas :it:

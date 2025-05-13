@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm thrilled to have been awarded a doctoral scholarship from the German Academic Scholarship Foundation! :tada:
+Big news! I'm thrilled to have been awarded a doctoral scholarship from the German Academic Scholarship Foundation :tada:
