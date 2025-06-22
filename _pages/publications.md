@@ -4,10 +4,12 @@ permalink: /publications/
 title: Contributions
 description:
 sections:
+  - bibquery: "@preprint"
+    text: "Preprints"
   - bibquery: "@article"
-    text: "Peer-reviewed manuscripts"
+    text: "Peer-reviewed publications"
   - bibquery: "@inproceedings"
-    text: "Conference proceedings"
+    text: "Conference contributions"
   - bibquery: "@thesis"
     text: "Theses"
   - bibquery: "@misc"
