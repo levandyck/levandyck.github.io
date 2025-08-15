@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-At another CAOs workshop in Rovereto, I presented initial results of an exciting new project on investigating face and body selectivity in deep neural networks.
+At CAOs in Rovereto, I presented initial results of an exciting new project investigating face and body selectivity in DNNs and visual cortex.
