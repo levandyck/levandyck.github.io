@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Lenny van Dyck # the website title (if blank, full name will be used instead)
-first_name: Leonard
-middle_name: E.
+first_name: Leonard E.
+middle_name:
 last_name: van Dyck
 email: lenny.vandyck@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -171,7 +171,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
