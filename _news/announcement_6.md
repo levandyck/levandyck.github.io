@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented findings from my first PhD project at CCN in Boston! It was very nice to meet so many great scientists and exchange ideas with them. Check out our [short paper](https://2024.ccneuro.org/pdf/124_Paper_authored_ManuscriptAuthored.pdf) or the [poster](/assets/img/CCN24_Poster.png) for more :us:
+I presented findings from my first PhD project at CCN in Boston! It was very nice to meet so many great scientists and exchange ideas with them. Check out our [short paper](https://2024.ccneuro.org/pdf/124_Paper_authored_ManuscriptAuthored.pdf) for more :us:
