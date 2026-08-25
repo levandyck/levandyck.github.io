@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Candidate</strong>
+subtitle:
 
 profile:
   align: right
@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, and welcome to my website!
 
-I'm Lenny, a third-year PhD candidate in Cognitive Computational Neuroscience at JLU Giessen. I work with Katharina Dobs in the [Visual Cognition and Computational Neuroscience Lab](https://www.vccnlab.org/).
+I'm Lenny, a third-year PhD candidate in Cognitive Computational Neuroscience at the University of Giessen, working with Katharina Dobs in the [Visual Cognition and Computational Neuroscience Lab](https://www.vccnlab.org/).
 
-In my research, I investigate how the brain transforms sensory input into meaningful representations. I'm particularly fascinated by functionally selective regions that perform specialized computations to solve this complex task. With a foundation in cognitive neuroscience and a growing passion for deep learning, I combine neuroimaging and computational modeling to uncover how the brain makes sense of the world around us.
+My research asks how the brain transforms sensory signals into an understanding of the world around us. I'm especially interested in why certain brain regions specialize in different aspects of this task. I combine neuroimaging and computational modeling to find out.
 
 When not doing science, I like to spend time in the mountains or travel the planet in a campervan.

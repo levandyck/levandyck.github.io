@@ -7,9 +7,9 @@ sections:
   - bibquery: "@preprint"
     text: "Preprints"
   - bibquery: "@article"
-    text: "Peer-reviewed publications"
+    text: "Papers"
   - bibquery: "@inproceedings"
-    text: "Conference contributions"
+    text: "Conferences"
   - bibquery: "@thesis"
     text: "Theses"
   - bibquery: "@misc"
@@ -17,7 +17,7 @@ sections:
 years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
 social: true
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at the SFB workshop "Categorization in Perception and Action: Minds, Models, Mechanisms" held at Rauischholzhausen Castle.
+I gave a talk at the SFB workshop "Categorization in Perception and Action" held at Schloss Rauischholzhausen.
